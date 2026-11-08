@@ -6,6 +6,7 @@
     "country": "Australia",
     "email": "geoff@heynowhifi.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": true,
     "latitude": -37.8596,
     "longitude": 144.9811,
@@ -18,6 +19,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "St Kilda",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.heynowhifi.com.au/"
   },
   {
@@ -27,6 +30,7 @@
     "country": "Australia",
     "email": "",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -37.8586734,
     "longitude": 144.9840645,
@@ -39,6 +43,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "St Kilda",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "premiumsound.com.au/"
   },
   {
@@ -48,6 +54,7 @@
     "country": "Australia",
     "email": "sales@theaudioexperts.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -37.9725,
     "longitude": 145.0394,
@@ -60,6 +67,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "Cheltenham",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://theaudioexperts.com.au/"
   },
   {
@@ -69,6 +78,7 @@
     "country": "Australia",
     "email": " infofrankprowsehifi.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -31.9814593,
     "longitude": 115.7920359,
@@ -81,6 +91,8 @@
     "sim2": false,
     "state": "WA",
     "suburb": "Nedlands",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.frankprowsehifi.com.au/"
   },
   {
@@ -90,6 +102,7 @@
     "country": "Australia",
     "email": "ben@hifiguru.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -34.8996589,
     "longitude": 138.629011,
@@ -102,6 +115,8 @@
     "sim2": false,
     "state": "SA",
     "suburb": "Joslin",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://hifiguru.com.au/"
   },
   {
@@ -111,6 +126,7 @@
     "country": "Australia",
     "email": "sales@mirandahifi.com",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -35.3214,
     "longitude": 149.177,
@@ -123,6 +139,8 @@
     "sim2": false,
     "state": "ACT",
     "suburb": "Fyshwick",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.mirandahifi.com/"
   },
   {
@@ -132,6 +150,7 @@
     "country": "Australia",
     "email": "info@stereophonic.com.au",
     "kanto": true,
+    "kantoMounts": false,
     "klh": true,
     "latitude": -37.78182,
     "longitude": 144.97514,
@@ -144,6 +163,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "Carlton",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.stereophonic.com.au/"
   },
   {
@@ -153,6 +174,7 @@
     "country": "Australia",
     "email": " INFO@VINYLREVIVAL.COM.AU",
     "kanto": true,
+    "kantoMounts": false,
     "klh": true,
     "latitude": -37.78182,
     "longitude": 144.97514,
@@ -165,6 +187,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "Carlton",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.vinylrevival.com.au/"
   },
   {
@@ -174,6 +198,7 @@
     "country": "Australia",
     "email": "info@tivolihifi.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -37.82415,
     "longitude": 145.05312,
@@ -186,6 +211,8 @@
     "sim2": false,
     "state": "VIC",
     "suburb": "Hawthorn East",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://tivolihifi.com.au/"
   },
   {
@@ -195,6 +222,7 @@
     "country": "Australia",
     "email": "info@sbhifi.com.au",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -38.1506,
     "longitude": 144.3582,
@@ -207,6 +235,8 @@
     "sim2": false,
     "state": "Vic",
     "suburb": "Geelong",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://sbhifi.com.au/"
   },
   {
@@ -216,6 +246,7 @@
     "country": "Australia",
     "email": "info@sydneyhifimonavale.com.au",
     "kanto": false,
+    "kantoMounts": true,
     "klh": true,
     "latitude": -33.704,
     "longitude": 151.18,
@@ -228,6 +259,8 @@
     "sim2": false,
     "state": "NSW",
     "suburb": "Belrose",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://sydneyhifimonavale.com.au/"
   },
   {
@@ -237,6 +270,7 @@
     "country": "New Zealand",
     "email": "leonard@lucasaudio.co.nz",
     "kanto": false,
+    "kantoMounts": false,
     "klh": false,
     "latitude": -36.8077,
     "longitude": 174.75426,
@@ -249,6 +283,8 @@
     "sim2": false,
     "state": "NZ",
     "suburb": "Northcote",
+    "victrola": false,
+    "weAreRewind": false,
     "website": "https://www.lucasaudio.co.nz/"
   }
 ]
