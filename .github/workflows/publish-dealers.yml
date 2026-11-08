@@ -1,0 +1,31 @@
+
+name: Publish AVOZ Dealer Data
+
+on:
+  repository_dispatch:
+    types: [publish-dealers]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Write dealer data
+        env:
+          DEALERS_JSON: ${{ toJson(github.event.client_payload.dealers) }}
+        run: |
+          printf '%s\n' "$DEALERS_JSON" > dealers.json
+
+      - name: Commit updated dealer data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dealers.json
+          git diff --cached --quiet || git commit -m "Update AVOZ dealer data"
+          git push
