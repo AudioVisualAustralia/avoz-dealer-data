@@ -277,7 +277,7 @@
     "name": "Lucas Audio",
     "openAudio": false,
     "phone": "09 419 9672",
-    "postcode": "627",
+    "postcode": "0627",
     "primare": true,
     "rithum": false,
     "sim2": false,
@@ -286,5 +286,29 @@
     "victrola": false,
     "weAreRewind": false,
     "website": "https://www.lucasaudio.co.nz/"
+  },
+  {
+    "active": "Y",
+    "address": "12/538 Gardeners Rd",
+    "audioflow": true,
+    "country": "Australia",
+    "email": "scott@customht.com.au",
+    "kanto": false,
+    "kantoMounts": false,
+    "klh": true,
+    "latitude": -33.9213,
+    "longitude": 151.1927,
+    "name": "CHT Solutions",
+    "openAudio": false,
+    "phone": "1800 100 998",
+    "postcode": "2015",
+    "primare": true,
+    "rithum": false,
+    "sim2": false,
+    "state": "NSW",
+    "suburb": "Alexandria",
+    "victrola": false,
+    "weAreRewind": false,
+    "website": "https://www.customht.com.au/"
   }
 ]
