@@ -910,5 +910,29 @@
     "victrola": false,
     "weAreRewind": false,
     "website": "https://tecport.com.au/"
+  },
+  {
+    "active": "Y",
+    "address": "9b Mackillop St",
+    "audioflow": false,
+    "country": "Australia",
+    "email": "dig-int@bigpond.net.au",
+    "kanto": false,
+    "kantoMounts": false,
+    "klh": false,
+    "latitude": -12.4248,
+    "longitude": 130.8413,
+    "name": "Digital Interiors",
+    "openAudio": false,
+    "phone": "0466 984 041",
+    "postcode": "820",
+    "primare": true,
+    "rithum": false,
+    "sim2": false,
+    "state": "NT",
+    "suburb": "Parap",
+    "victrola": false,
+    "weAreRewind": false,
+    "website": "https://northcoaststereo.com.au"
   }
 ]
