@@ -886,5 +886,29 @@
     "victrola": false,
     "weAreRewind": false,
     "website": "https://icomnz.com/"
+  },
+  {
+    "active": "Y",
+    "address": "188 Torrens Rd",
+    "audioflow": false,
+    "country": "Australia",
+    "email": "info@tecport.com.au",
+    "kanto": false,
+    "kantoMounts": false,
+    "klh": false,
+    "latitude": -34.8966,
+    "longitude": 138.5684,
+    "name": "TecPort",
+    "openAudio": true,
+    "phone": "0400 400 724",
+    "postcode": "5008",
+    "primare": false,
+    "rithum": false,
+    "sim2": false,
+    "state": "SA",
+    "suburb": "Renown Park",
+    "victrola": false,
+    "weAreRewind": false,
+    "website": "https://tecport.com.au/"
   }
 ]
